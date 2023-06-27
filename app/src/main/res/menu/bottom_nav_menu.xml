@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/elecCardList"
+        android:title="전자명함_목록"
+        android:icon="@drawable/ic_baseline_format_list_90" />
+
+    <item android:id="@+id/paparCardScan"
+        android:title="종이명함 스캔"
+        android:icon="@drawable/ic_baseline_scan_24" />
+
+    <item android:id="@+id/elecCardExchange"
+        android:title="전자명함_교환"
+        android:icon="@drawable/ic_baseline_swap_horiz_24" />
+
+    <item android:id="@+id/elecCardRegisterAndModify"
+        android:title="전자명함 등록"
+        android:icon="@drawable/ic_baseline_edit_24" />
+
+    <item android:id="@+id/myProfile"
+        android:title="내 프로필"
+        android:icon="@drawable/ic_baseline_person_outline_black_24" />
+</menu>
